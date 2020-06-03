@@ -8,15 +8,7 @@ team:
     image: images/team/team-1.jpg
     designation: CEO/Founder
     content: Ich veist nisht.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    social: []
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
