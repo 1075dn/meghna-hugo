@@ -7,9 +7,9 @@ funfacts:
   - title: Raised So Far
     icon: ti-money
     count: "0"
-  - title: Projects completed
-    icon: ti-archive
-    count: "350"
+  - title: Still Needed
+    icon: ti-money
+    count: '1,000,000,000'
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
