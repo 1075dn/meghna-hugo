@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: images/backgrounds/logoideas.png
+  bg_image: images/backgrounds/logo ideas.png
   icon: ti-control-play
   title: Help Torah. Worldwide.
   content: Help us create a new remote video learning platform, customized for our
