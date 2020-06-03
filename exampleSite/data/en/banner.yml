@@ -9,5 +9,5 @@ banner:
     yeshivos.
   button:
     enable: true
-    label: Explore Us
+    label: Find out more...
     link: "#services"
