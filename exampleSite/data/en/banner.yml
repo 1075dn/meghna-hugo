@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: ''
+  bg_image: images/backgrounds/logoideas.png
   icon: ''
-  title: Help Torah. Worldwide
+  title: Help Torah. Worldwide.
   content: Help us create a new remote video learning platform, customized for our
     yeshivos.
   button:
