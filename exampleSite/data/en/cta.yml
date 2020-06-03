@@ -7,5 +7,5 @@ cta:
   content: It's so important to us!
   button:
     enable: true
-    label: Start a project with us
+    label: Donate now!
     link: "#contact"
